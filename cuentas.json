@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Banco Pichincha Cta. Ahorro",
+        "num": "2204733509",
+        "img" : "icons/pichi.webp"
+    },
+    {
+        "id": 2,
+        "name": "Banco Guayaquil Cta. Ahorro",
+        "num": "0036503968",
+        "img" : "icons/gua.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banco Solidario Cta. Ahorro",
+        "num": "5927005842560",
+        "img" : "icons/soli.png"
+    },
+    {
+        "id": 4,
+        "name": "Banco del pacifico Cta. Ahorro",
+        "num": "1064726444",
+        "img" : "icons/pasi.png"
+    }
+]
